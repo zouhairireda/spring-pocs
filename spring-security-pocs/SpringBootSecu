@@ -1,0 +1,2 @@
+For classic pages : (ViewControllerRegistry).addViewController('/link').setViewName("template-link") : class extending WebMvcConfigurerAdapter
+
